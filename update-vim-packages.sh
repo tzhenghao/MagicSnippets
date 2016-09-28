@@ -9,3 +9,5 @@ cd ~/.vim/bundle/vim-airline && git pull
 cd -
 cd ~/.vim/bundle/vim-gitgutter && git pull
 cd -
+cd ~/.vim/bundle/nerdcommenter && git pull
+cd -
