@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Author: Zheng Hao Tan
 # Email: tanzhao@umich.edu
