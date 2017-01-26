@@ -1,5 +1,7 @@
 # MagicSnippets
 
+[![Build Status](https://travis-ci.org/tzhenghao/MagicSnippets.svg?branch=master)](https://travis-ci.org/tzhenghao/MagicSnippets)
+
 ## Introduction
 A magical place where all my crappy, throwaway scripts live.
 
