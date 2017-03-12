@@ -9,5 +9,7 @@ cd ~/.vim/bundle/vim-airline && git pull
 cd -
 cd ~/.vim/bundle/vim-gitgutter && git pull
 cd -
-cd ~/.vim/bundle/nerdcommenter && git pull
+cd ~/.vim/bundle/neocomplete.vim && git pull
+cd -
+cd ~/.vim/bundle/vim-colors-solarized && git pull
 cd -
