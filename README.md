@@ -1,6 +1,8 @@
 # MagicSnippets
 
 [![Build Status](https://travis-ci.org/tzhenghao/MagicSnippets.svg?branch=master)](https://travis-ci.org/tzhenghao/MagicSnippets)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 ## Introduction
 A magical place where all my crappy, throwaway scripts live.
