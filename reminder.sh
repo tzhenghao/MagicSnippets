@@ -1,6 +1,9 @@
 #!/bin/bash
 set -euo pipefail
 
+# Author: Zheng Hao Tan <tanzhao@umich.edu>
+# MIT License
+
 #/ Usage: reminder.sh <sleepTime> <message>
 #/ Sets a timer of sleepTime seconds with the given message.
 usage() {
