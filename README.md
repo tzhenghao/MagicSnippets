@@ -15,6 +15,7 @@ ciphertexts based on PBKDF2 specification.
 4. `encrypt.sh + decrypt.sh` - Shell scripts that contain wrapper GPG commands for
 encryption and decryption purposes.
 5. `clean-up.sh` - Shell script that deletes my `bash` and `zsh` history.
+6. `count-loc-in-repo.sh` - Count the number of lines of code in a particular repo.
 
 ## Support
 Please feel free to reach out to me if you have any questions/concerns. My email
