@@ -16,7 +16,9 @@ ciphertexts based on PBKDF2 specification.
 encryption and decryption purposes.
 5. `clean-up.sh` - Shell script that deletes my `bash` and `zsh` history.
 6. `count-loc-in-repo.sh` - Count the number of lines of code in a particular repo.
+7. `reminder.sh` - Sets a reminder with specified timeout and message(s).
+8. `disable-macos-mouse-acceleration.sh` - Disables mouse acceleration on a MacOS device.
 
 ## Support
 Please feel free to reach out to me if you have any questions/concerns. My email
-address is tanzhao@umich.edu
+address is hi@zhenghaotan.com
